@@ -7,7 +7,8 @@ void main()
 	SetConsoleOutputCP(65001);
 	float h = 12.0;//новый коммит
 	float g = 5.6;
-	float t = sqrt(2 * h / g);
+	float t = sqrt(5 * h / g);
+
 	printf("Начало\n");
 	printf("Предмет падает с высоты %f метров\n", h);
 	printf("Он коснется земли через %f секунд\n", t);
