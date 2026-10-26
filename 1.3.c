@@ -9,7 +9,7 @@ void main()
 	float g = 5.6;
 	float t = sqrt(5 * h / g);
 
-	printf("hello\n");//начало
+	printf("Начало\n");//начало
 	printf("Предмет падает с высоты %f метров\n", h);
 	printf("Он коснется земли через %f секунд\n", t);
 	printf("Конец\n");//конец
